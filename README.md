@@ -1,7 +1,9 @@
 # 18.6
 TroyBot CurrencyExchange
 
-Файл `config.py` содержит ключи названий валют и коды валют. 
+Ссылка на бота ТГ: https://t.me/Tcheftestbot
+
+Файл `config.py` содержит TOKEN бота и ключи названий и кодов валют. 
 
 В функциях `help_command` и `values_command` мы определяем команды бота `/start`, `/help` и `/values` соответственно.
 
